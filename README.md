@@ -46,3 +46,8 @@ This file encapsulates reusable logic related to embedding initialization and mo
 ### Who We Are
 회사 홈페이지:
 http://okestro.com/
+
+
+---
+### License
+MIT License

@@ -47,10 +47,10 @@ This file encapsulates reusable logic related to embedding initialization and mo
 
 Component | Recommendation
 --------- | --------------
-GPU | A100 40GB / 80GB
+GPU | A100 80GB / 80GB
 Precision | bfloat16
-Batch size | 16–64
-Multi-GPU | DeepSpeed ZeRO-2
+Batch size | 2048–4096
+Embedding Model | all-MiniLM-L6-v2
 
 ---
 

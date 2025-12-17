@@ -43,6 +43,18 @@ This file encapsulates reusable logic related to embedding initialization and mo
 ---
 
 
+### Recommended Hardware
+
+Component | Recommendation
+--------- | --------------
+GPU | A100 40GB / 80GB
+Precision | bfloat16
+Batch size | 16–64
+Multi-GPU | DeepSpeed ZeRO-2
+
+---
+
+
 ### Who We Are
 회사 홈페이지:
 http://okestro.com/
